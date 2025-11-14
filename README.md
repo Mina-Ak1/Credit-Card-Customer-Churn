@@ -1,6 +1,5 @@
 # Credit-Card-Customer-Churn
-Classifying credit card customer data for churn behavior using Kmeans Clustering
-
+Classifying credit card customers for churn prediction using Random Forest, with and without KMeans cluster feature engineering, and comparing the results.
 
 A manager at the bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if one could predict for them who is gonna get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction
 
